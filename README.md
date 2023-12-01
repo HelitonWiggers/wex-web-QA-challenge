@@ -1,6 +1,6 @@
 WEB test challange.
 
-Three test cases were created for a web automation project using the Saucedemo website.
+Three test cases were created for a web automation project using the Saucedemo website (https://www.saucedemo.com/).
 The following tools were used:
 - Ruby: Selenium compatible programming language.
 - Selenium: Framework used to test web applications and create automated test scripts.
