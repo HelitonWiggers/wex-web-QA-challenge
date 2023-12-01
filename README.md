@@ -17,5 +17,5 @@ In the second checkout test case, 2 scenarios were validated. One positive scena
 Finally, the last test case validated 1 successful logout scenario.
 In total, there were 7 scenarios with 23 steps in the project, all following automation best practices and clean code principles. For instance, scenario tags were specified in the features to allow running a single isolated scenario if needed, all mapped elements and functions were placed within the "pages" for better organization, and functions could be called in the steps later on, use of background and scenario outline when possible to apply.
 
-Test report result
-https://reports.cucumber.io/reports/88cdff4a-9f0e-4986-86c5-88c035d0d22d
+Test report result:
+https://reports.cucumber.io/reports/52b18eeb-1325-49da-ac10-84d003860fbb
